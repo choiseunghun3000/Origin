@@ -97,6 +97,7 @@ a{text-decoration: none;}
     width: auto; height: auto;
     /* border: 1px solid #f00; */
     position: relative;
+    overflow: hidden;
 }
 #main section .cont_box:nth-child(1){
     grid-column: 1/3;
